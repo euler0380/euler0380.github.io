@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 重大攻关项目 Research
+  - title: 攻关项目 Research
     link: /research.html
   - title: 论文 Publications
     link: /publications.html
